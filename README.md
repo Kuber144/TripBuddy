@@ -46,3 +46,7 @@ http://host2:8080/project0/web
 #### TO MAKE SURE THAT THE PROJECT WORKS MAKE SURE TO REPLACE host1 WHEREVER IT IS MENTIONED AND host2 WHEREVER IT IS MENTIONED
 
 
+
+https://github.com/Kuber144/TripBuddy/assets/96476340/1320db33-297c-4b9c-9e5e-64606ae7cc8a
+
+
